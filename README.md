@@ -19,11 +19,11 @@ REST APIs handles CRUD operations in this application.
 - JDK 8
 - Maven
 
-##Author
+## Author
 -   Janarthanam
 
-###Date
+## Date
 -   30-06-2020
 
-##License
+## License
 -   This project are licensed under the Apache License, Version 2.0.
